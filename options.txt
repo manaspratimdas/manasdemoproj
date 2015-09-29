@@ -14,5 +14,10 @@
     "Namespace": "aws:ec2:vpc",
     "OptionName": "VPCId", 
     "Value": "vpc-d93cccbc"
+    },
+     {  
+    "Namespace": "aws:ec2:vpc",
+    "OptionName": "Subnets", 
+    "Value": "subnet-433be81a"
     }
 ]
