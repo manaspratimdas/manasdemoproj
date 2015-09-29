@@ -19,5 +19,5 @@
     "Namespace": "aws:ec2:vpc",
     "OptionName": "SecurityGroups", 
     "Value": "sg-0986996c"
-    },
+    }
 ]
