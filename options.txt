@@ -1,1 +1,23 @@
-[ {  "Namespace": "aws:autoscaling:launchconfiguration","OptionName": "EC2KeyName","Value": "deventytle"},{  "Namespace": "aws:autoscaling:launchconfiguration","OptionName": "InstanceType", "Value": "t2.micro"}]
+[ 
+  { 
+    "Namespace": "aws:autoscaling:launchconfiguration", 
+    "OptionName": "EC2KeyName",
+    "Value": "deventytle"
+    }
+    ,
+    {  
+    "Namespace": "aws:autoscaling:launchconfiguration",
+    "OptionName": "InstanceType", 
+    "Value": "t2.micro"
+    },
+    {  
+    "Namespace": "aws:ec2:vpc",
+    "OptionName": "VPCId", 
+    "Value": "vpc-d93cccbc"
+    },
+    {  
+    "Namespace": "aws:ec2:vpc",
+    "OptionName": "SecurityGroups", 
+    "Value": "sg-0986996c"
+    },
+]
