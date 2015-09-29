@@ -1,0 +1,1 @@
+[ {  "Namespace": "aws:autoscaling:launchconfiguration","OptionName": "EC2KeyName","Value": "deventytle"},{  "Namespace": "aws:autoscaling:launchconfiguration","OptionName": "InstanceType", "Value": "t2.micro"}]
