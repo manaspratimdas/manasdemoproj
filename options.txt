@@ -34,5 +34,10 @@
     "Namespace": "aws:autoscaling:launchconfiguration",
     "OptionName": "IamInstanceProfile", 
     "Value": "controller_role"
+    },
+    {  
+    "Namespace": "aws:autoscaling:launchconfiguration",
+    "OptionName": "AssociatePublicIpAddress", 
+    "Value": "true"
     }
 ]
